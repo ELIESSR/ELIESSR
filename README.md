@@ -2,7 +2,13 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELIESSR&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELIESSR&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+	<a width="100%"> 
+
+
+      
 <div align="center">
 	<a href="https://platzi.com/p/LMNTdev/">
 		<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ELIESSR&bg_color=0D1117&theme=dark" alt="Stats badge"/>
