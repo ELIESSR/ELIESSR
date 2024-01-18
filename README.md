@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELIESSR&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELIESSR&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/ELIESSR"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ELIESSR&show_icons=true&theme=radical"  /></a> | <a href="https://github.com/ELIESSR"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELIESSR&layout=donut" /></a> |
+| ------------- | ------------- |
+<br/>
 
 <div align="center">
 	<a width="100%"> 
