@@ -1,16 +1,6 @@
 ### Hi there 👋
 
-asdasdasdasd
-as
-d
-asd
-a
-sd
-asd
-a
-sd
-as
-d
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELIESSR&show_icons=true&theme=radical)
 
 <!--
 **ELIESSR/ELIESSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
