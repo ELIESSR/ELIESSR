@@ -1,4 +1,17 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="media/git-pic-round.png" width="100"/>
+  <div id="badges">
+	<a href="https://www.linkedin.com/in/diego-rubio-morato/">
+		<img src="https://img.shields.io/badge/LinkedIn-393C46?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn Badge"/>
+	</a>
+	<a href="mailto:contacto@diegorubiomorato.me">
+		<img src="https://img.shields.io/badge/contacto@diegorubiomorato.me-393C46?style=for-the-badge&logo=Gmail" alt="Email badge"/>
+	</a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=zarpos&style=flat-square&color=FBA92C" 
+        alt="Profile views"/>
+</div>
 
 <div style="text-align: center; align="center";>
     <table align="center";>
