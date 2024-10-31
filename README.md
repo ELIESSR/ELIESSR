@@ -8,7 +8,7 @@
                 <td><a href="https://github.com/ELIESSR"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELIESSR&layout=compact" /></a></td>
             </tr>
             <tr>
-                <td align="center" colspan="2"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ELIESSR&bg_color=0D1117&theme=dark&cache_seconds=86400" alt="Stats badge"/>
+                <td align="center" colspan="2"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ELIESSR&bg_color=0D1117&theme=compact&cache_seconds=86400" alt="Stats badge"/>
 </td>
             </tr>
         </tbody>
